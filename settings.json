@@ -1,13 +1,13 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "Slobot00",
+    "username": "SlotH",
     "password": "",
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "PvpPRACTICE-022l.aternos.me",
+    "port": 57759,
     "version": "",
     "try-creative": false
   },
@@ -29,11 +29,11 @@
     "chat-messages": {
       "enabled": true,
       "repeat": true,
-      "repeat-delay": 120,
+      "repeat-delay": 500,
       "messages": [
-        "I'm a regular player",
-        "Subscribe to Slobos!",
-        "I like to play Minecraft!"
+        "Davil is the GOAT!",
+        "can i get ur autograph pls, davil?",
+        "HI!"
       ]
     },
     "chat-log": true,
@@ -82,6 +82,6 @@
     }
   },
   "chat": {
-    "respond": true
+    "respond": false
   }
 }
